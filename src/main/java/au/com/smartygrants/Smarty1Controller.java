@@ -27,7 +27,7 @@ class Smarty1Controller {
 
     @RequestMapping(method = GET, path = "/")
     public String root() {
-        return "Spring Boot REST service running in West Melbourne - Wed: Served by " + getClass().getName();
+        return "1: Spring Boot REST service running in West Melbourne - Wed: Served by " + getClass().getName();
     }
 
     @RequestMapping(method = GET, path = "hello/{name}")
