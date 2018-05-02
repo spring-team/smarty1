@@ -1,5 +1,5 @@
 # smarty1
-my new project
+my new project - it's cool
 
 Based on seed project `spring-team:spring-rest-seed`
 
